@@ -226,5 +226,5 @@ model_comparison_results <- list(
 
 save(
   model_comparison_results,
-  file = file.path(DIR_PROCESSED, "model_comparison_results.RData")
+  file = file.path(DIR_OUTPUT, "model_comparison_results.RData")
 )

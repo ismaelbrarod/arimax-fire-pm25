@@ -159,5 +159,5 @@ save(
   pred_arimax_lagged,
   df_comparacion_arimax_lagged,
   fraccion_atribuible_arimax_lagged,
-  file = file.path(DIR_PROCESSED, "arimax_lagged_results.RData")
+  file = file.path(DIR_OUTPUT, "arimax_lagged_results.RData")
 )

@@ -151,5 +151,5 @@ save(
   pred_arimax,
   df_comparacion_arimax,
   fraccion_atribuible_arimax,
-  file = file.path(DIR_PROCESSED, "arimax_results.RData")
+  file = file.path(DIR_OUTPUT, "arimax_results.RData")
 )
